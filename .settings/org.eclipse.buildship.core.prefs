@@ -1,2 +1,2 @@
-connection.project.dir=
-eclipse.preferences.version=1
+https://data.usgs.gov/datacatalog/api/docs
+curl -X 'GET' \ 'https://data.usgs.gov/datacatalog/api/harvest/files?sort_desc=true&pid=Pi&doi=Do&title=Kerman%20&author=Mo&data_source_name=Shahr%20babak&harvest_source_name=Sb%20gaz%208%22&page=0&size=10&sort_by=pid' \ -H 'accept: application/json'
